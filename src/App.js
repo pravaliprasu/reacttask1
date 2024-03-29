@@ -26,6 +26,8 @@ function App() {
 
 {/* <Api/> */}
 <Button/>
+<Button/>
+<Button/>
 <Image/>
 <Table/>
 <List/>
