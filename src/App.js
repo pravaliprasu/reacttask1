@@ -12,6 +12,7 @@ import Image from './components1/image.jsx';
 import Table from "./components1/table.jsx"
 import List from "./components1/list.jsx"
 import Forms from "./components1/forms.jsx"
+import ListComponents from './28mar/list.jsx';
 function App() {
   return (
     // <div className="App">
@@ -25,13 +26,15 @@ function App() {
       {/* <A/> */}
 
 {/* <Api/> */}
-<Button/>
+{/* <Button/>
 <Button/>
 <Button/>
 <Image/>
 <Table/>
 <List/>
-<Forms/>
+<Forms/> */}
+
+<ListComponents/>
     </div>
 
     
